@@ -1,0 +1,17 @@
+# Python
+backend/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local configuration and secrets
+backend/.env
+frontend/.env
+
+# JavaScript
+frontend/node_modules/
+frontend/dist/
+
+# Editors and operating systems
+.DS_Store
+.vscode/
